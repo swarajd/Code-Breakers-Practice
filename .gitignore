@@ -1,3 +1,5 @@
 *.class
 META-INF/
 .classpath
+.gitignore
+.project
