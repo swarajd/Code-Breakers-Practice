@@ -1,0 +1,136 @@
+Current neural network technology is the most progressive of the artificial intelligence systems today
+Applications of neural networks have made the transition from laboratory curiosities to large, successful commercial applications
+To enhance the security of automated financial transactions, current technologies in both speech recognition and handwriting recognition are likely ready for mass integration into financial institutions
+This study focuses on academic research in neural network technology 
+This study was funded by the Banking Commission in its effort to deter fraud
+Overview Recently, the thrust of studies into practical applications for artificial intelligence have focused on exploiting the expectations of both expert systems and neural network computers
+In the artificial intelligence community, the proponents of expert systems have approached the challenge of simulating intelligence differently than their counterpart proponents of neural networks
+Expert systems contain the coded knowledge of a human expert in a field; this knowledge takes the form of if-then rules
+The problem with this approach is that people don’t always know why they do what they do
+And even when they can express this knowledge, it is not easily translated into usable computer code
+Also, expert systems are usually bound by a rigid set of inflexible rules which do not change with experience gained by trail and error
+In contrast, neural networks are designed around the structure of a biological model of the brain
+Neural networks are composed of simple components called neurons each having simple tasks, and simultaneously communicating with each other by complex interconnections
+As Herb Brody states, Neural networks do not require an explicit set of rules
+The network - rather like a child - makes up its own rules that match the data it receives to the result it’s told is correct (42)
+Impossible to achieve in expert systems, this ability to learn by example is the characteristic of neural networks that makes them best suited to simulate human behavior
+Computer scientists have exploited this system characteristic to achieve breakthroughs in computer vision, speech recognition, and optical character recognition
+Figure 1 illustrates the knowledge structures of neural networks as compared to expert systems and standard computer programs
+Neural networks restructure their knowledge base at each step in the learning process
+This paper focuses on neural network technologies which have the potential to increase security for financial transactions
+Much of the technology is currently in the research phase and has yet to produce a commercially available product, such as visual recognition applications
+Other applications are a multimillion dollar industry and the products are well known, like Sprint Telephone’s voice activated telephone calling system
+In the Sprint system the neural network positively recognizes the caller’s voice, thereby authorizing activation of his calling account
+The First Steps The study of the brain was once limited to the study of living tissue
+Any attempts at an electronic simulation were brushed aside by the neurobiologist community as abstract conceptions that bore little relationship to reality
+This was partially due to the over-excitement in the 1950’s and 1960’s for networks that could recognize some patterns, but were limited in their learning abilities because of hardware limitations
+In the 1990's computer simulations of brain functions are gaining respect as the simulations increase their abilities to predict the behavior of the nervous system
+This respect is illustrated by the fact that many neurobiologists are increasingly moving toward neural network type simulations
+One such neurobiologist, Sejnowski, introduced a three-layer net which has made some excellent predictions about how biological systems behave
+Figure 2 illustrates this network consisting of three layers, in which a middle layer of units connects the input and output layers
+When the network is given an input, it sends signals through the middle layer which checks for correct output
+An algorithm used in the middle layer reduces errors by strengthening or weakening connections in the network
+This system, in which the system learns to adapt to the changing conditions, is called back-propagation
+The value of Sejnowski's network is illustrated by an experiment by Richard Andersen at the Massachusetts Institute of Technology
+Andersen’s team spent years researching the neurons monkeys use to locate an object in space (Dreyfus and Dreyfus 42-61)
+Anderson decided to use a neural network to replicate the findings from their research
+They trained the neural network to locate objects by retina and eye position, then observed the middle layer to see how it responded to the input
+The result was nearly identical to what they found in their experiments with monkeys
+Computer-Synthesized Senses · Visual Recognition The ability of a computer to distinguish one customer from another is not yet a reality
+But, recent breakthroughs in neural network visual technology are bringing us closer to the time when computers will positively identify a person
+Current Research Studying the retina of the eye is the focus of research by two professors at the California Institute of Technology, Misha A
+Mahowald and Carver Mead
+Their objective is to electronically mimic the function of the retina of the human eye
+Previous research in this field consisted of processing the absolute value of the illumination at each point on an object, and required a very powerful computer
+The analysis required measurements be taken over a massive number of sample locations on the object, and so, it required the computing power of a massive digital computer to analyze the data
+The professors believe that to replicate the function of the human retina they can use a neural network modeled with a similar biological structure of the eye, rather than simply using massive computer power
+Their chip utilizes an analog computer which is less powerful than the previous digital computers
+They compensated for the reduced computing power by employing a far more sophisticated neural network to interpret the signals from the electronic eye
+They modeled the network in their silicon chip based on the top three layers of the retina which are the best understood portions of the eye
+These are the photoreceptors, horizontal cells, and bipolar cells
+The electronic photoreceptors, which make up the first layer, are like the rod and cone cells in the eye
+Their job is to accept incoming light and transform it into electrical signals
+In the second layer, horizontal cells use a neural network technique by interconnecting the horizontal cells and the bipolar cells of the third layer
+The connected cells then evaluate the estimated reliability of the other cells and give a weighted average of the potentials of the cells around it
+Nearby cells are given the most weight and far cells less weight
+This technique is very important to this process because of the dynamic nature of image processing
+If the image is accepted without testing its probable accuracy, the likelihood of image distortion would increase as the image changed
+The silicon chip that the two professors developed contains about 2,500 pixels— photoreceptors and their associated image-processing circuitry
+The chip has circuitry that allows a professor to focus on each pixel individually or to observe the whole scene on a monitor
+The professors stated in their paper, The behavior of the adaptive retina is remarkably similar to that of biological systems (qtd in Thompon 251)
+The retina was first tested by changing the light intensity of just one single pixel while the intensity of the surrounding cells was kept at a constant level
+The design of the neural network caused the response of the surrounding pixels to react in the same manner as in biological retinas
+They state that, In digital systems, data and computational operations must be converted into binary code, a process that requires about 10,000 digital voltage changes per operation
+Analog devices carry out the same operation in one step and so decrease the power consumption of silicon circuits by a factor of about 10,000 (qtd in Thompson 251)
+Besides validating their neural network, the accuracy of this silicon chip displays the usefulness of analog computing despite the assumption that only digital computing can provide the accuracy necessary for the processing of information
+As close as these systems come to imitating their biological counterparts, they still have a long way to go
+For a computer to identify more complex shapes, eg a person’s face, the professors estimate the requirement would be at least 100 times more pixels as well as additional circuits that mimic the movement-sensitive and edge-enhancing functions of the eye
+They feel it is possible to achieve this number of pixels in the near future
+When it does arrive, the new technology will likely be capable of recognizing human faces
+Visual recognition would have an undeniable effect on reducing crime in automated financial transactions
+Future technology breakthroughs will bring visual recognition closer to the recognition of individuals, thereby enhancing the security of automated financial transactions
+Computer-Aided Voice Recognition Voice recognition is another area that has been the subject of neural network research
+Researchers have long been interested in developing an accurate computer-based system capable of understanding human speech as well as accurately identifying one speaker from another
+Current Research Ben Yuhas, a computer engineer at John Hopkins University, has developed a promising system for understanding speech and identifying voices that utilizes the power of neural networks
+Previous attempts at this task have yielded systems that are capable of recognizing up to 10,000 words, but only when each word is spoken slowly in an otherwise silent setting
+This type of system is easily confused by back ground noise (Moyne 100)
+Ben Yuhas' theory is based on the notion that understanding human speech is aided, to some small degree, by reading lips while trying to listen
+The emphasis on lip reading is thought to increase as the surrounding noise levels increase
+This theory has been applied to speech recognition by adding a system that allows the computer to view the speaker’s lips through a video analysis system while hearing the speech
+The computer, through the neural network, can learn from its mistakes through a training session
+Looking at silent video stills of people saying each individual vowel, the network developed a series of images of the different mouth, lip, teeth, and tongue positions
+It then compared the video images with the possible sound frequencies and guessed which combination was best
+Yuhas then combined the video recognition with the speech recognition systems and input a video frame along with speech that had background noise
+The system then estimated the possible sound frequencies from the video and combined the estimates with the actual sound signals
+After about 500 trial runs the system was as proficient as a human looking at the same video sequences
+This combination of speech recognition and video imaging substantially increases the security factor by not only recognizing a large vocabulary, but also by identifying the individual customer using the system
+Current Applications Laboratory advances like Ben Yuhas’ have already created a steadily increasing market in speech recognition
+Speech recognition products are expected to break the billion-dollar sales mark this year for the first time
+Only three years ago, speech recognition products sold less than $200 million (Shaffer, 238)
+Systems currently on the market include voice-activated dialing for cellular phones, made secure by their recognition and authorization of a single approved caller
+International telephone companies such as Sprint are using similar voice recognition systems
+Integrated Speech Solution in Massachusetts is investigating speech applications which can take orders for mutual funds prospectuses and account activities (239)
+Optical Character Recognition Another potential area for transaction security is in the identification of handwriting by optical character recognition systems (OCR)
+In conventional OCR systems the program matches each letter in a scanned document with a pre-arranged template stored in memory
+Most OCR systems are designed specifically for reading forms which are produced for that purpose
+Other systems can achieve good results with machine printed text in almost all font styles
+However, none of the systems is capable of recognizing handwritten characters
+This is because every person writes differently
+Nestor, a company based in Providence, Rhode Island has developed handwriting recognition products based on developments in neural network computers
+Their system, NestorReader, recognizes handwritten characters by extracting data sets, or feature vectors, from each character
+The system processes the input representations using a collection of three by three pixel edge templates (Pennisi, 23)
+The system then lays a grid over the pixel array and pieces it together to form a letter
+Then the network discovers which letter the feature vector most closely matched
+The system can learn through trial and error, and it has an accuracy of about 80 percent
+Eventually this system will be able to evaluate all symbols with equal accuracy
+It is possible to implement new neural-network based OCR systems into standard large optical systems
+Those older systems, used for automated processing of forms and documents, are limited to reading typed block letters
+When added to these systems, neural networks improve accuracy of reading not only typed letters but also handwritten characters
+Along with automated form processing, neural networks will analyze signatures for possible forgeries
+Conclusion Neural networks are still considered emerging technology and have a long way to go toward achieving their goals
+This is certainly true for financial transaction security
+But with the current capabilities, neural networks can certainly assist humans in complex tasks where large amounts of data need to be analyzed
+For visual recognition of individual customers, neural networks are still in the simple pattern matching stages and will need more development before commercially acceptable products are available
+Speech recognition, on the other hand, is already a huge industry with customers ranging from individual computer users to international telephone companies
+For security, voice recognition could be an added link to the chain of pre-established systems
+For example, automated account inquiry, by telephone, is a popular method for customers to determine the status of existing accounts
+With voice identification of customers, an option could be added for a customer to request account transactions and payments to other institutions
+For credit card fraud detection, banks have relied on computers to identify suspicious transactions
+In fraud detection, these programs look for sudden changes in spending patterns such as large cash withdrawals or erratic spending
+The drawback to this approach is that there are more accounts flagged for possible fraud than there are investigators
+The number of flags could be dramatically reduced with optical character recognition to help focus investigative efforts
+It is expected that the upcoming neural network chips and add-on boards from Intel will add blinding speed to the current network software
+These systems will even further reduce losses due to fraud by enabling more data to be processed more quickly and with greater accuracy
+Recommendations Breakthroughs in neural network technology have already created many new applications in financial transaction security
+Currently, neural network applications focus on processing data such as loan applications, and flagging possible loan risks
+As computer hardware speed increases and as neural networks get smarter, real-time neural network applications should become a reality
+Real-time processing means the network processes the transactions as they occur
+Watch for advances in visual recognition hardware / neural networks
+When available, commercially produced visual recognition systems will greatly enhance the security of automated financial transactions
+Computer aided voice recognition is already a reality
+This technology should be implemented in automated telephone account inquiries
+The feasibility of adding phone transactions should also be considered
+Cooperation among financial institutions could result in secure transfers of funds between banks when ordered by the customers over the telephone
+Handwriting recognition by OCR systems should be combined with existing check processing systems
+These systems can reject checks that are possible forgeries
+Investigators could follow-up on the OCR rejection by making appropriate inquiries with the check writer
